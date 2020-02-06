@@ -1,1 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shaurov05/Website-Classification/blob/master/Website%20Classification.ipynb/master)
+website classifiaction using word based bi-gram.
+
+DMOZ dataset was used for this task. It was known as open directory project(ODP). This dataset has over 1.5 websites with 15 categories that they belong like sports, Arts, Business etc.
+(you can find it here https://www.kaggle.com/shaurov/datasets)
